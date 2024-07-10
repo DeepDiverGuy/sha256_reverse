@@ -3,7 +3,8 @@ This python script is a possible solution to reverse the SHA256
 hash value! But there is 
 a headache of huge time complexity. So we need a very very 
 powerful processor (maybe doesn't exist yet) to complete 
-this script within a desired runtime.
+this script within a desired runtime. Its actually brute-force
+underneath.
 
 
 
